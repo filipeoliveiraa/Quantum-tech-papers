@@ -1,0 +1,20 @@
+repo_name: filipeoliveiraa/Quantum-tech-papers
+report_id: 5a20906debbb89e597092174085d746e
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-04T23:15:10+00:00'
+requested_by: mgg39
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/filipeoliveiraa/Quantum-tech-papers
+  detection_source: Repo Metadata
